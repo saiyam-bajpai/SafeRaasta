@@ -1,6 +1,0 @@
-datasets/
-*.zip
-__pycache__/
-*.pyc
-training/
-testing/
